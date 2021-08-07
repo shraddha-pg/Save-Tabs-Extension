@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+body {
+  min-width: 500px;
+  margin-top: 5px;
+  margin-left: 10px;
+}
+
+#store {
+  margin-top: 5px;
+  font-size: 20px;
+  border-radius: 1px;
+  border: none;
+  background-color: #5f9341;
+  color: #e5ecd1;
+  padding: 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  border: 2px solid #5f9341;
+  border-radius: 20px;
+}
+
+#save{
+  margin-top: 5px;
+  font-size: 20px;
+  border-radius: 1px;
+  border: none;
+  background-color: #5f9341;
+  color: #e5ecd1;
+  padding: 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  border: 2px solid #5f9341;
+  border-radius: 20px;
+}
+#save:hover{
+  background-color: whitesmoke;
+  color: #5f9341;
+}
+#del{
+  margin-top: 5px;
+  font-size: 20px;
+  border-radius: 1px;
+  border: none;
+  background-color: whitesmoke;
+  color: #5f9341;
+  padding: 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  border: 2px solid #5f9341;
+  border-radius: 20px;
+}
+
+#txt {
+  width: 90%;
+  height: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #5f9341;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+}
+
+input:focus {
+  outline: none;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  margin-left: 0px;
+  padding-left: 0;
+  margin-top: 15px;
+  color: #5f9341;
+}
+
+li {
+  margin-top: 5px;
+  color: #5f9341;
+}
+
+a:link {
+  text-decoration: none;
+  color: #5f9341;
+}
